@@ -49,7 +49,7 @@ Here are a few highlights of my work:
 
 ## 🌐 Let's Connect!  
 
-[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/racheal-katono-72b080345)  
 [![](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
 
 💌 Feel free to explore my repositories and connect with me. Let’s collaborate and grow together 🚀  
