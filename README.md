@@ -1,4 +1,4 @@
-# 👋 Hi, I am Racheal Katono  
+# Hi, I am Racheal Katono  
 
 Welcome to my GitHub profile!  
 
@@ -6,17 +6,17 @@ I'm a **Software Development student** at **Brigham Young University–Idaho**, 
 
 ---
 
-## 🌟 About Me  
+## About Me  
 
-- 🎓 Currently pursuing a **Bachelor of Science in Software Development**  
-- 📚 Learning **Python, Web Development (HTML, CSS, JavaScript), and Databases (SQL, MongoDB)**  
-- 🎯 Goals: To become a skilled **Software Engineer** and contribute to projects that make a positive impact  
-- 💬 Ask me about **web development, Python projects, or database design**  
-- ✨ Fun fact: I enjoy solving problems and helping others through technology  
+- Currently pursuing a **Bachelor of Science in Software Development**  
+- Learning **Python, Web Development (HTML, CSS, JavaScript), and Databases (SQL, MongoDB)**  
+- Goals: To become a skilled **Software Engineer** and contribute to projects that make a positive impact  
+- Ask me about **web development, Python projects, or database design**  
+- Fun fact: I enjoy solving problems and helping others through technology  
 
 ---
 
-## 🛠️ Technologies and Tools
+## Technologies and Tools
 
 
 <div>
@@ -36,7 +36,7 @@ I'm a **Software Development student** at **Brigham Young University–Idaho**, 
 
 
 
-## 📂 Projects
+## Projects
 
 
 Here are a few highlights of my work:
@@ -52,7 +52,7 @@ Here are a few highlights of my work:
 ---
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 
 ![Racheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachealkatono&show_icons=true&theme=tokyonight)
